@@ -2,5 +2,4 @@ Updating the file
 This updates was done from newBranch
 Again changed from newbranch
 
-This is created from master bracnch (to create conflict)
-
+This change is made from newBranch (to create conflict)
